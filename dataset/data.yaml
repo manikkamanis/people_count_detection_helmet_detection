@@ -1,0 +1,11 @@
+train: ../train/images
+val: ../train/images
+test: ../train/images
+
+nc: 4
+names:
+- person
+- rider
+- with_helmate
+- without_helmate
+
